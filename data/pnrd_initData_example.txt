@@ -1,0 +1,12 @@
+8
+9
+72
+8
+0 0 0 0 0 0 -1 -1 0 0 0 -1 1 0 0 1 0 1 1 0 1 -1 0 0 0 1 0 -1 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 -1 0 0 1 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 -1 -1 0 0 0
+1 0 0 0 0 0 0 0
+SSID
+WIFI_PASSWORD
+pnrd-mqtt.cloud.shiftr.io
+1883
+pnrd-mqtt
+MQTT_PASSWORD
